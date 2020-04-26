@@ -1,0 +1,14 @@
+C:\Users\Rıfat\source\repos\EflatunCompute\EflatunCompute.Services\bin\Debug\netcoreapp3.1\EflatunCompute.Services.deps.json
+C:\Users\Rıfat\source\repos\EflatunCompute\EflatunCompute.Services\bin\Debug\netcoreapp3.1\EflatunCompute.Services.dll
+C:\Users\Rıfat\source\repos\EflatunCompute\EflatunCompute.Services\bin\Debug\netcoreapp3.1\EflatunCompute.Services.pdb
+C:\Users\Rıfat\source\repos\EflatunCompute\EflatunCompute.Services\bin\Debug\netcoreapp3.1\EflatunCompute.Entity.dll
+C:\Users\Rıfat\source\repos\EflatunCompute\EflatunCompute.Services\bin\Debug\netcoreapp3.1\EflatunCompute.Persistence.dll
+C:\Users\Rıfat\source\repos\EflatunCompute\EflatunCompute.Services\bin\Debug\netcoreapp3.1\EflatunCompute.Entity.pdb
+C:\Users\Rıfat\source\repos\EflatunCompute\EflatunCompute.Services\bin\Debug\netcoreapp3.1\EflatunCompute.Persistence.pdb
+C:\Users\Rıfat\source\repos\EflatunCompute\EflatunCompute.Services\obj\Debug\netcoreapp3.1\EflatunCompute.Services.csprojAssemblyReference.cache
+C:\Users\Rıfat\source\repos\EflatunCompute\EflatunCompute.Services\obj\Debug\netcoreapp3.1\EflatunCompute.Services.csproj.CoreCompileInputs.cache
+C:\Users\Rıfat\source\repos\EflatunCompute\EflatunCompute.Services\obj\Debug\netcoreapp3.1\EflatunCompute.Services.AssemblyInfoInputs.cache
+C:\Users\Rıfat\source\repos\EflatunCompute\EflatunCompute.Services\obj\Debug\netcoreapp3.1\EflatunCompute.Services.AssemblyInfo.cs
+C:\Users\Rıfat\source\repos\EflatunCompute\EflatunCompute.Services\obj\Debug\netcoreapp3.1\EflatunCompute.Services.csproj.CopyComplete
+C:\Users\Rıfat\source\repos\EflatunCompute\EflatunCompute.Services\obj\Debug\netcoreapp3.1\EflatunCompute.Services.dll
+C:\Users\Rıfat\source\repos\EflatunCompute\EflatunCompute.Services\obj\Debug\netcoreapp3.1\EflatunCompute.Services.pdb

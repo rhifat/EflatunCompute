@@ -1,0 +1,15 @@
+C:\Users\Rıfat\source\repos\EflatunCompute\EflatunCompute.Persistence\bin\Debug\netcoreapp3.1\EflatunCompute.Entity.dll
+C:\Users\Rıfat\source\repos\EflatunCompute\EflatunCompute.Persistence\obj\Debug\netcoreapp3.1\EflatunCompute.Persistence.csprojAssemblyReference.cache
+C:\Users\Rıfat\source\repos\EflatunCompute\EflatunCompute.Persistence\obj\Debug\netcoreapp3.1\EflatunCompute.Persistence.AssemblyInfoInputs.cache
+C:\Users\Rıfat\source\repos\EflatunCompute\EflatunCompute.Persistence\obj\Debug\netcoreapp3.1\EflatunCompute.Persistence.AssemblyInfo.cs
+C:\Users\Rıfat\source\repos\EflatunCompute\EflatunCompute.Persistence\bin\Debug\netcoreapp3.1\EflatunCompute.Persistence.deps.json
+C:\Users\Rıfat\source\repos\EflatunCompute\EflatunCompute.Persistence\bin\Debug\netcoreapp3.1\EflatunCompute.Persistence.runtimeconfig.json
+C:\Users\Rıfat\source\repos\EflatunCompute\EflatunCompute.Persistence\bin\Debug\netcoreapp3.1\EflatunCompute.Persistence.runtimeconfig.dev.json
+C:\Users\Rıfat\source\repos\EflatunCompute\EflatunCompute.Persistence\bin\Debug\netcoreapp3.1\EflatunCompute.Persistence.dll
+C:\Users\Rıfat\source\repos\EflatunCompute\EflatunCompute.Persistence\bin\Debug\netcoreapp3.1\EflatunCompute.Persistence.pdb
+C:\Users\Rıfat\source\repos\EflatunCompute\EflatunCompute.Persistence\bin\Debug\netcoreapp3.1\EflatunCompute.Entity.pdb
+C:\Users\Rıfat\source\repos\EflatunCompute\EflatunCompute.Persistence\obj\Debug\netcoreapp3.1\EflatunCompute.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Rıfat\source\repos\EflatunCompute\EflatunCompute.Persistence\obj\Debug\netcoreapp3.1\EflatunCompute.Persistence.csproj.CopyComplete
+C:\Users\Rıfat\source\repos\EflatunCompute\EflatunCompute.Persistence\obj\Debug\netcoreapp3.1\EflatunCompute.Persistence.dll
+C:\Users\Rıfat\source\repos\EflatunCompute\EflatunCompute.Persistence\obj\Debug\netcoreapp3.1\EflatunCompute.Persistence.pdb
+C:\Users\Rıfat\source\repos\EflatunCompute\EflatunCompute.Persistence\obj\Debug\netcoreapp3.1\EflatunCompute.Persistence.genruntimeconfig.cache

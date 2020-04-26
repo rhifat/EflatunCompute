@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EflatunCompute.Entity\EflatunCompute.Entity.csproj" />
+    <ProjectReference Include="..\EflatunCompute.Persistence\EflatunCompute.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>
